@@ -46,3 +46,5 @@ alias fm='/usr/bin/yazi'
 
 # dependencies for /opt
 alias code='/opt/code/VSCode/bin/code --ozone-platform-hint=auto --enable-wayland-ime'
+
+export EDITOR=vim
